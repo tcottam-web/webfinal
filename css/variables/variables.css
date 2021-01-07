@@ -1,0 +1,28 @@
+html {
+  /* --variable-name: value; */
+
+
+
+
+/* colors */
+
+--dark-blue: #14243c;
+--light-blue: #2891cc;
+--light-grey: rgba(255, 255, 255, 0.74);
+
+
+
+/* font charachteristics */
+
+--main-title: 40px;
+--h1: 30px;
+--landing-text:25px;
+--h2: 20px;
+--body: 16px;
+
+--sans-light: 'Open Sans', sans-serif;
+
+--monzo-font: 'Roboto', sans-serif;
+
+
+}

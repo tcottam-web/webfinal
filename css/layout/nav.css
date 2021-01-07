@@ -1,0 +1,21 @@
+.nav a {
+    text-decoration: none;
+    color: white;
+    font-size: var(--body);
+    
+   
+    font-family: var(--monzo-font);
+    padding: 16px 20px;
+    display: inline-block;
+}
+
+
+
+.nav {
+    left: 0px;
+    height: 0%;
+    width: 100%;
+    text-align: center;
+}
+
+

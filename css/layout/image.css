@@ -1,0 +1,24 @@
+.current-title {
+    color: white;
+    font-size: var(--main-title);
+    font-family: var(--monzo-font);
+    font-weight:700;
+    
+
+}
+
+.current-sub {
+    color: white;
+    font-size: var(--h2);
+    font-family: var(--monzo-font);
+    font-weight: 300;
+
+}
+
+.image-text {
+    display: inline-block;
+    position: relative;
+    top: 250px;
+    left: 100px;
+    line-height: 30px;
+}

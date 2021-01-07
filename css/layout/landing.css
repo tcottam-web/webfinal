@@ -1,0 +1,106 @@
+
+
+
+/*
+@media (max-width: 320px) {
+    .main-text {
+    
+    
+    }
+
+    .section-one {
+        display: block;
+        width: 320px;
+
+    }
+
+    .nav {display: none;
+
+    }
+
+    .quadblock {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .switch-image img {
+        display: none;
+    }
+} */
+
+
+.main-text {
+   display: inline-block;
+   font-size: var(--main-title);
+   font-family: var(--monzo-font);
+   font-weight: 700;
+   word-spacing: 4px;
+   
+}
+
+.landing-text {
+    font-size: var(--landing-text);
+    font-family: var(--monzo-font);
+    font-weight: 300; 
+    display: inline-block;
+    color : var(--light-grey);
+    word-spacing: 2px;
+    
+}
+
+.text {
+    display: inline-block;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
+
+
+
+.download {
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+    top: 550px;
+    font-size: var(--body);
+    color: var(--light-grey);
+    font-family: var(--monzo-font);
+}
+
+.app-store {
+    display: inline-block;
+    padding-right: 30px;
+
+}
+
+.google-play {
+    display: inline-block;
+}
+
+.download-buttons {
+    display: inline-block;
+    position: absolute;
+    left:100px;
+    top: 600px;
+  
+}
+  
+.iphone-card {
+    display: inline-block;
+    position: absolute;
+    top:-40px;
+    left: 830px;
+    
+
+
+}
+
+.iphone-card img {
+    min-width: 1000px;    
+    max-height: 800px;
+}
+
+/* max-height: 750px;
+    float: right;
+    margin-right: 1%;
+    top: 0%; */

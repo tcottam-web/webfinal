@@ -1,0 +1,33 @@
+.section-one {
+    background-color:var(--dark-blue);
+    color: white;
+    height: 760px;
+    position: relative;
+    overflow: hidden;
+
+}
+
+
+/*
+* {
+    border: 1px solid black;
+}   */
+
+.section-two {
+    background-color: whitesmoke;
+    min-height: 760px;
+    position:relative;
+    
+    
+   
+}
+
+
+
+.section-three {
+   background-image: url(../../img/images-current-account/current-account.jpg); 
+    height: 1200px;
+    background-repeat: no-repeat;
+}
+
+
